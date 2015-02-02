@@ -1,0 +1,5 @@
+C:\Users\Neurando\Documents\ReadifyChallenge\ReadifyChallenge\bin\ReadifyChallenge.dll.config
+C:\Users\Neurando\Documents\ReadifyChallenge\ReadifyChallenge\bin\ReadifyChallenge.dll
+C:\Users\Neurando\Documents\ReadifyChallenge\ReadifyChallenge\bin\ReadifyChallenge.pdb
+C:\Users\Neurando\Documents\ReadifyChallenge\ReadifyChallenge\obj\Release\ReadifyChallenge.dll
+C:\Users\Neurando\Documents\ReadifyChallenge\ReadifyChallenge\obj\Release\ReadifyChallenge.pdb
