@@ -1,2 +1,2 @@
 # redpill
-A webservice some test methods
+A nice WCF challenge
